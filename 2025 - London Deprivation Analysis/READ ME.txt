@@ -1,0 +1,13 @@
+We create a map to show deprivation in London using data from Ministry of Housing, Communities and Local Government.
+
+This development was recreated following the tutorial of London Business Analytics Group.
+Tutorial: https://www.youtube.com/watch?v=NsA1gVZvRtw
+Original Sources: https://github.com/MarkWilcock/lbag-online/tree/master/Mapbox%20IMD
+
+Date: June 23th, 2025
+
+Mapbox Token: pk.eyJ1IjoiZnJlc2xseWZlbGlwZWRpcml5YWgiLCJhIjoiY21jOTMzYW9mMDluZTJqczlqZmMzeGhuMiJ9.TgbMBPwjU_zlqKGDLadAbA
+
+Tileset ID: fresllyfelipediriyah.5h4vvuii
+Layer Name: London_LSOA_Shape-clifxt
+Vector Property (Matching Field with the dataset): LSOA11NM 
